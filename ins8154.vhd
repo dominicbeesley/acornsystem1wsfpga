@@ -3,7 +3,7 @@
 -- 
 -- Create Date:    	29/9/2019
 -- Design Name: 
--- Module Name:    	Acorn System 1 top level
+-- Module Name:    	INS8154 for Acorn System 1
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
